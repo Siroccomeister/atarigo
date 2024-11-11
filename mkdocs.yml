@@ -1,0 +1,14 @@
+site_name: Faraway, So Close
+site_description: "Personal Blog and Repository"
+site_url: https://siroccomeister.github.io/atari/
+
+theme:
+  name: material
+ 
+extra:
+  analytics:
+    provider: google
+    property: G-CR3FZ4XFFT
+
+plugins:
+  - projects
