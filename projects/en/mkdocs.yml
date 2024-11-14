@@ -46,7 +46,8 @@ extra:
 
 plugins:
   - search
-  - optimize
+  - optimize:
+      cache: false
   - table-reader
   - mkdocs-video:
       is_video: True
