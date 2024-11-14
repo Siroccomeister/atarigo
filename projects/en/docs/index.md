@@ -2,22 +2,17 @@
 glightbox: true
 ---
 
-# Welcome on my Great Divide 2024 project
+# Welcome to my personal blog space
 
-This is my repository to log all my learnings, preparation and blogs in support of my endeavour : cross the USA by riding the [Great Divide Mountain Bike Route](https://bikepacking.com/routes/great-divide-mountain-bike-route-gdmbr/).
+I decided after my Great Divide Mountain Bike Route [adventure](https://divide.siroccomeister.net) to continue writing. So I set-up this new online space to just do that. 
+
+A couple of inspirations that I combined to incept this:
+
+- In the chinese/japanese game of GO, there's a figure called [atari](https://en.wikipedia.org/wiki/List_of_Go_terms#Atari) which implies a call for action to remain alive. It basically yields into a [ladder](https://en.wikipedia.org/wiki/Ladder_(Go)) that you keep building or climbing or (...) breaking. I like the momentum that is implied and find it inspiring in a world that tends to ignore itselfs. I aim at progressing on my ladder and break it open. How about you?
+- [*Faraway, So Close!*](https://en.wikipedia.org/wiki/Faraway,_So_Close!) is another quote from a Wim Wenders movie. The sequel to famous *Wings of Desire*. While some of our concerns and hopes may seem far away, life is an opportunity we can seize now to make a difference. And it nurtures our curiosity and envy to explore. 
 
 <figure markdown>
-![Kudos to bikepacking.com](assets/images/gdmbr_bpk.png){ width="400px" }
+![An angel played by Bruno Ganz discovers his senses in Wings of Desire](assets/images/Wim Wenders Angel.png){ width="500px" }
+<figcaption markdown>© Wim Wenders / Argos Films </figcaption>
 </figure>
 
-# The story that made it possible
-
-It all started in 2023 when a German [podcast](https://www.youtube.com/playlist?list=PLCLnrkmezkJR3Myov4To9yl1Wb4_OSTyb) showcased a book about [the "Great Divide"](https://www.amazon.de/Great-Divide-Gravelbike-durch-Mountains/dp/3846409693#immersive-view_1721994856052). I had bought a gravel 6 month before and thought by myself : I'd love to undertake such an adventure (bucket list type of idea). In fact, I started planning ahead that if nothing would prevent it, I would actually do it. And here I am now!
-
-One year later, many things happened and made it actually possible. Including taking a sabbatical, leaving a long time employer and preparing for a new professional/career step, family and supportive friends, physical preparation... long list. But encouraging list.
-
-# Why this blog
-
-Originally I did not mean to maintain a blog. But many asked how to follow me. And I also wanted to capture my daily moments, consolidate my experiences, elaborate on inspirations. I alsoi wanted to give back and inspire others.
-
-So I decided to create this dedicated website. And as a promoter of open source, running it on GitHub was a nicer option than resolving to use made-for platforms (Wordpress, PolarStep), as good as they may be. This flexibility also allows me to design it in a way that makes it also useful to myself 😉.

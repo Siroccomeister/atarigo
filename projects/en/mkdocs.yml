@@ -1,10 +1,9 @@
-site_name: Faraway, So Close
+site_name: Faraway, So Close!
 site_description: My personal repository and online blog
 
 theme:
   name: material
-  logo: assets/images/shade.png
-
+  logo: assets/images/atarigo.jpg
   features:
     - navigation.expand
     - search.highlight
@@ -13,6 +12,10 @@ theme:
     - navigation.top
     - navigation.footer
     - toc.integrate
+  palette:
+     primary: amber
+     accent: green
+     scheme: slate
 
 extra_css:
   - stylesheets/extra.css

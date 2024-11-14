@@ -3,9 +3,7 @@ site_description: Mon site de référence et de blog
 
 theme:
   name: material
-  language : fr
-  logo: assets/images/shade.png
-
+  logo: assets/images/atarigo.jpg
   features:
     - navigation.expand
     - search.highlight
@@ -14,6 +12,10 @@ theme:
     - navigation.top
     - navigation.footer
     - toc.integrate
+  palette:
+     primary: amber
+     accent: green
+     scheme: slate
 
 extra_css:
   - stylesheets/extra.css

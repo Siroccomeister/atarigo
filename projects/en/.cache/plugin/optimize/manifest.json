@@ -1,4 +1,5 @@
 {
+  "assets/images/Wim%20Wenders%20Angel.png": "4ee6b211e639f31f234f9cab41e272aba252f08e",
   "assets/images/atarigo.jpg": "0ce55aa2e0ffc3c25b24541c402479af12ea205c",
   "assets/images/favicon.png": "50c4fb6c0d449e6c8c07bd9bfbdea32b4e02b09a",
   "assets/images/gdmbr_bpk.png": "6714b4e49be86142bdc85ea54842afd0ac058102",
@@ -8,5 +9,16 @@
   "blog/day0/MarocSelfie.jpg": "d5aa49d3225ba92d0fc7f48c974d6af4e2d2e959",
   "blog/day0/Packed.jpeg": "0ca39131179592e899130d424925318ee9b521a9",
   "blog/day0/QualityV.jpeg": "51f453468b00a909d351c1c54098996eba2ee8f6",
-  "blog/day0/openup.jpg": "bfdbf66a7fbd7fa9eee796b0d80cff40b7eb79bd"
+  "blog/day0/openup.jpg": "bfdbf66a7fbd7fa9eee796b0d80cff40b7eb79bd",
+  "blog/post1/All%20Photos%20-%201%20of%201.jpeg": "348655e4df50aa577822b98337d3b977bec8a5b1",
+  "blog/post1/Jasper-wildfire.jpeg": "c207bb5f947e9053ad231482e3b3270c1c1f937e",
+  "blog/post1/Kloten.jpeg": "6ea69b55145a706d6d45e1143774e3aae6caf1bf",
+  "blog/post1/MarocSelfie.jpg": "d5aa49d3225ba92d0fc7f48c974d6af4e2d2e959",
+  "blog/post1/Packed.jpeg": "0ca39131179592e899130d424925318ee9b521a9",
+  "blog/post1/QualityV.jpeg": "51f453468b00a909d351c1c54098996eba2ee8f6",
+  "blog/post1/openup.jpg": "bfdbf66a7fbd7fa9eee796b0d80cff40b7eb79bd",
+  "blog/post1/post1.0.jpeg": "348655e4df50aa577822b98337d3b977bec8a5b1",
+  "blog/post1/post1.1.jpeg": "1ff694e61374c090d2440573a30c975f4e32f209",
+  "blog/post1/post1.2.jpeg": "b2c2a4eb022fcc0206657d61cb1cd9bc9f09248b",
+  "blog/post1/post1.3.jpeg": "b2124f4dc39b894f1772ce3864d18bf8364c42e4"
 }
