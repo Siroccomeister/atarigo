@@ -2,26 +2,17 @@
 glightbox: true
 ---
 
-# Bienvenue sur mon projet Great Divide 2024
+# Bienvenue sur mon blog personnel
 
-Ceci est mon dépôt pour consolider tout ce que j'ai appris en termes de préparation, logistique, blog, en lien avec mon projet : traverser les États-Unis en suivant la [Great Divide Mountain Bike Route](https://bikepacking.com/routes/great-divide-mountain-bike-route-gdmbr/).
+J'ai décidé, après mon [aventure](https://divide.siroccomeister.net/) sur la Great Divide Mountain Bike Route, de continuer à écrire. J'ai donc créé ce nouvel espace en ligne pour faire exactement cela.
+
+Quelques inspirations qui m'accompagnent sur le ton et l'esprit de mon blog :
+
+- Dans le jeu de GO chinois/japonais, il existe une figure appelée [atari](https://en.wikipedia.org/wiki/List_of_Go_terms#Atari), qui implique un appel à l'action pour rester en vie. Cela mène essentiellement à une [échelle](https://en.wikipedia.org/wiki/Ladder_(Go)) que l'on continue de construire, de grimper ou de (...) briser. J'aime le dynamisme que cela suggère et je trouve cela inspirant dans un monde qui tend à s'ignorer. J'ai pour but de progresser sur mon échelle et de l'ouvrir. Et vous ?
+- [*Si loin, Si proche!*](https://en.wikipedia.org/wiki/Faraway,_So_Close!) est une autre citation d'un film de Wim Wenders. La suite du célèbre *Les Ailes du désir.* Bien que certaines de nos préoccupations et espoirs puissent sembler lointains, la vie est une opportunité que nous pouvons saisir ici et maintenant pour faire une différence. Et elle nourrit notre curiosité et notre envie d'explorer.
 
 <figure markdown>
-![Kudos to bikepacking.com](assets/images/gdmbr_bpk.png){ width="400px" }
+![Un ange joué par Bruno Ganz découvre ses sens dans Les Ailes du Désir](assets/images/Wim Wenders Angel.png){ width="500px" }
+<figcaption markdown>© Wim Wenders / Argos Films </figcaption>
 </figure>
 
-# L'histoire qui a rendu ce projet possible
-
-Tout a commencé en 2023 lorsqu'un [podcast allemand](https://www.youtube.com/playlist?list=PLCLnrkmezkJR3Myov4To9yl1Wb4_OSTyb) a mis en avant un livre sur [la "Great Divide"](https://www.amazon.de/Great-Divide-Gravelbike-durch-Mountains/dp/3846409693#immersive-view_1721994856052). J'avais acheté un gravel six mois auparavant et je me suis dit : j'aimerais entreprendre une telle aventure, cela me motive. De fait, j'ai commencé à planifier et organiser, arguant que si rien ne m'en empêchait, je le ferais vraiment. Et au fur et à mesure, le projet est progressivement devenu réalité.
-
-En une année, beaucoup de choses se sont passées et l'ont rendu réellement possible. Cela inclut la prise d'un congé sabbatique, quitter un employeur de longue date et se préparer pour une nouvelle étape professionnelle, une famille et des amis soutenants, une préparation physique engageante... la liste est longue. Mais c'est une liste encourageante.
-
-# Pourquoi un blog
-
-Au départ, je n'avais pas l'intention de tenir un blog. Mais beaucoup de personnes m'ont demandé comment avoir des nouvelles durant mon parcours. Et je voulais aussi capturer mes moments forts quotidiens, consolider mes expériences, élaborer autour de mes inspirations. Je voulais aussi rendre partager et inspirer les autres.
-
-J'ai donc décidé de créer ce site dédié. Et en tant que promoteur de l'open source, le faire sur GitHub était une meilleure option que d'utiliser des plateformes toutes faites (Wordpress, PolarStep), aussi bonnes soient-elles. Cette flexibilité me permet aussi de le concevoir de manière à ce qu'il me soit également utile 😉.
-
-# Français et/ou anglais?
-
-Durant mon voyage, j'ai partagé mes nouvelles quotidiennement en français. Plus simple et finalement plus proche de ma famille et amis. Mais le reste du site est plutôt anglophone. J'ai donc retraduit mon blog de français en anglais. Mais l'anglais reste la langue par défaut pour documenter les aspects techniques sur le site.
