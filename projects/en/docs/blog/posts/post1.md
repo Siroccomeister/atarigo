@@ -3,7 +3,6 @@ draft: false
 date: 2024-11-11 
 categories:
   - Personal Development
-  - World
 ---
 
 # The size of your steps

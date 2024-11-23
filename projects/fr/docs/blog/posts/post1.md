@@ -1,38 +1,64 @@
 ---
-draft: false 
-date: 2024-11-11 
+draft: true 
+date: 2024-11-14 
 categories:
-  - Personal Development
-  - World
+  - Santé
 ---
 
-# The size of your steps
+# Retour sur le Forum Santé 2024
 
-Every day we are bombarded with (depressing) news and (alarming) media. Then we still roll-up our sleeves and plan our todo actions for the day and work hard on getting things done.  Yet at the end of your day, your todo list probably has still grown despite your closed actions. Your stress level probably as well. Sounds familiar as a stage setting (I could drag on a lot more on this)?
+Ca y est! Aujourd’hui j’ai crée mon dossier électronique du patient (DEP) ou encore Elektronisches Patientendossier (EPD).
 
-So as we navigate together in these waters, the question I ask myself is : am I really progressing?
+J’y ai été sensibilisé en participant à la 7ème édition du Forum Santé 2024, un évènement [Le Temps](https://events.letemps.ch/sante). Les sujets qui m’ont marqué et que j’aimerais développer dans ce post et probablement creuser ultérieurement sont multiples :
+
+- le retard de la Suisse dans la digitalisation du système de santé
+- le dossier électronique du patient : quelle réalité
+- les réseaux intégrés - une vraie bonne idée?
+- une logistique renouvelée pour une médecine de précision
+- les promesses de l’ARN messager
+- les promesses de l’IA
+- retour à la réalité : merci René Prêtre &nbsp; :octicons-heart-fill-24:{ .heart }
 
 <figure markdown>
-![Walking in the desert of Morocco](post1/post1.0.jpeg){ width=60% }
+![Réflexions sur le Forum Santé 2024](post1/post1_le_temps.jpg)
+{ width=60% }
 </figure>
 
 <!-- more -->
 
-Say I am in the desert, on my way to Promised Land, returning to Egypt is not an option. My direction is clear. And yet : how can I assess my progress and feel satisfied? As nothing resembles more to a sand dune than another sand dune, am I not falling back on my path?
+# le retard de la Suisse dans la digitalisation du système de santé
 
-<insert picture from Morocco>
+Le leader incontesté en Europe est [l’Estonie](https://www.mind.eu.com/health/essentiels/fiche-pays-estonie-les-atouts-du-champion-europeen-du-numerique/) (1), qui a pris un virage fort à sa sortie de l’URSS. Le digital aide à combler le manque de personnel médical. En plus de l’efficacité, l’Estonie vise de passer d’une “médecine pour tous” à une “médecine pour chacun”. Une manière paraphrasée d’ambitionner une médecine dite de **précision.**(2)
+{ .annotate }
 
-Now of course, some days are *special*. They might be highlights such as anniversaries or successes. They will stand-out and you could say that achieving those outcomes are real proof points of your progress. You might even get compensated for those. But those might be what (...) 10-20 days in a year? That still leaves you with ~340 days.
+1.  :light_bulb: l’Estonie a 1.5M d’habitants pour 45’000km2 (superficie comparable à la Suisse). Elle a rejoint l’union européenne et l’OTAN en 2004. Sa population est apparentée aux Finlandais.
 
-And while we may have our directions, work with objectives agreed professionally with management (or privately with your spouse), I started wondering what I could do myself to get a better sense of my own steps, what’s in there for me? Not so much about getting things done, but a lot more of what have I learned today and what difference did I made and how did I develop myself? How about increasing the cadence on those.
+    La résilience de l'État estonien et de son économie est attribuée entre autres à la **digitalisation de l'administration et des services publics** effectuée au sortir de l'occupation (URSS), au point que le pays est régulièrement qualifié d'État plateforme. Cette stratégie, conjuguée à une politique plus libérale que ses voisins nordiques, permet à l'Estonie de bien figurer au classement de facilité de faire des affaires et d'avoir le plus grand nombre de start-ups par habitants en Europe ([Wikipedia](https://fr.wikipedia.org/wiki/Estonie)).
+    
+2.  Selon les sens que les médecins veulent mettre en avant, cette médecine est aussi appelée médecine personnalisée, médecine stratifiée, médecine 4P (prédictive, préventive, personnalisée et participative). ([Wikipedia](https://fr.wikipedia.org/wiki/Médecine_personnalisée))
 
-Because it might be that you’re turning in circles, going backwards, or feel lost. Some days will feel like failures. And if this is the case, your resilience might be at stake when your next hurdle or challenge shows up. Your energy is getting drowned, step-by-step.
+Les pays leader en Europe se déclinent ainsi : l’Estonie est la plus avancée. Tous les habitants ont un dossier électronique (Terviseportaal depuis 2008) qui a la particularité d’échanger des données avec la Finlande (MyKanta depuis 2010). Le Danemark a un portal de mise en relation avec les professionnels de la santé depuis 2003. Les Allemands ont rattrapé leur retard en 2021. Toutes ces recettes reposent sur :
 
-Human Resources are quite conscious of this. I have seen good initiatives all aiming at strengthening the feedback given to employees, increasing the cadence of exchanges, developing communities, synergies. Improving the quality time. But do you really aspire to let your work experience define your personal development? You cannot always rely on others to motivate you (leaders, managers). It might help, but will unlikely be fulfilling.
+- une gouvernance digitale centralisée 
+- une priorité exprimée à l’échelle nationale
+- confiance des citoyens dans des services digitaux
 
-Another option are social networks. You may chase likes on LinkedIn or Strava or Instagram. And the more likes you get, the more rewarded you feel. But again, whilst the feedback from others matters, is this defining your own steps and your progress? I leave the question open as being personal, but in my case, it does not.
 
-So I decided to start an experiment. I chose to write down my learnings. I started *journaling* them. Publicly and in all transparency. And each of my posts shall describe the size of the steps I leave behind me in the sand... am curious what my pathway will look like !
+=== "Panorama Europe"
+
+    ![Panorama Européen](post1/post1-DEP-panorama-europe.png)
+
+=== "Reportage Le Temps"
+
+    <iframe width="100%" height=500 src="https://www.youtube.com/embed/SNDMbFFkOeY?si=Irlevetwd-yX9Pe6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    
+# le dossier électronique du patient : quelle réalité
+# les réseaux intégrés : une vraie bonne idée?
+# les promesses de l’ARN messager
+# les promesses de l’IA
+# retour à la réalité : merci René Prêtre
+
+
 
 <figure markdown>
 
