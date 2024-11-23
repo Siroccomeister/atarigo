@@ -1,5 +1,5 @@
 ---
-draft: true 
+draft: false 
 date: 2024-11-14 
 categories:
   - Santé
@@ -62,10 +62,12 @@ Les pays leader en Europe se déclinent ainsi : l’Estonie est la plus avancée
 
 <figure markdown>
 
-![Morocco Desert Trip 2024](post1/post1.1.jpeg){ width=60% }
+![Fabrice Zumbrunnen sur le réseau Viva](post1/post1_Fabrice_Zumbrunnen.jpg){ width=60% }
 
-![Morocco Desert Trip 2024](post1/post1.2.jpeg){ width=60% }
+![René Prêtre](post1/post1_rene_pretre.jpg){ width=60% }
 
-![Me as a Berber 🏝️ 😎](post1/post1.3.jpeg){ width=60% }
+posts/post1/post1_rene_pretre.jpg
+
+posts/post1/post1_Fabrice_Zumbrunnen.jpg
 
 </figure>
