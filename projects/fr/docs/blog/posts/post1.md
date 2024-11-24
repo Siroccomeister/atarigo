@@ -50,7 +50,9 @@ Les pays leader en Europe se déclinent ainsi : l’Estonie est la plus avancée
 
 === "Reportage Le Temps"
 
-    <iframe width="100%" height=500 src="https://www.youtube.com/embed/SNDMbFFkOeY?si=Irlevetwd-yX9Pe6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <div><div style="position:relative;padding-top:56.25%;">
+    <iframe src="https://www.youtube.com/embed/SNDMbFFkOeY?si=Irlevetwd-yX9Pe6" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
+    </div></div>
     
 # le dossier électronique du patient : quelle réalité
 # les réseaux intégrés : une vraie bonne idée?
