@@ -14,6 +14,7 @@ theme:
     - navigation.top
     - navigation.footer
     - toc.integrate
+    - toc.follow
   palette:
      primary: amber
      accent: green
