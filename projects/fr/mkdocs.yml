@@ -3,6 +3,7 @@ site_description: Mon site de référence et de blog
 
 theme:
   name: material
+  language : fr
   logo: assets/images/atarigo.jpg
   icon:
     annotation: material/plus-circle
@@ -50,6 +51,7 @@ extra:
 plugins:
   - search
   - optimize:
+      enabled: !ENV [CI, false]
       cache: false
   - table-reader
   - mkdocs-video:
@@ -66,7 +68,7 @@ plugins:
       blog_toc: true
       post_url_format: "{file}"
       archive: false
-      categories: false
+      categories: true
       pagination: false
   - glightbox:
       touchNavigation: true
@@ -78,7 +80,7 @@ plugins:
       zoomable: true
       draggable: false
       skip_classes:
-         - custom-skip-class-name
+         - skip-lightbox
       auto_caption: true
       caption_position: bottom
       background: white
