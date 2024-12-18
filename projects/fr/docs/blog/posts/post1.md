@@ -151,7 +151,7 @@ Quel bonheur de terminer la journée avec René Prêtre qui met du son et de l'i
 
 <figure markdown>
 
-![René Prêtre explique les principes d'une transplantation cardiaque pour un enfant nouveau-né](post1/post1_RenéP.png){ width=60% }
+![René Prêtre explique les principes d'une transplantation cardiaque pour un enfant nouveau-né](post1/post1_ReneP.png){ width=60% }
 
 ![Fabrice Zumbrunnen sur le réseau Viva](post1/post1_Fabrice_Zumbrunnen.jpg){ width=60% }
 
@@ -163,3 +163,7 @@ Quel bonheur de terminer la journée avec René Prêtre qui met du son et de l'i
 <object data="../post1/post1_81M.pdf" type="application/pdf" width=100% height=460px >
 </object>
 </div>
+
+<div><div style="position:relative;padding-top:56.25%;">
+<iframe src="../post1/post1_81M.pdf" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
+</div></div>
