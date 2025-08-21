@@ -66,7 +66,7 @@ plugins:
       blog_toc: true
       post_url_format: "{file}"
       archive: false
-      categories: true
+      categories: false
       pagination: false
   - glightbox:
       touchNavigation: true

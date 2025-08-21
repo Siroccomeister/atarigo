@@ -1,6 +1,6 @@
 ---
 draft: false 
-date: 2025-08-21 
+date: 2025-08-21
 categories:
   - Personal Development
 ---
