@@ -1,5 +1,5 @@
 ---
-draft: true 
+draft: false 
 date: 2025-08-21 
 categories:
   - Personal Development
@@ -7,7 +7,7 @@ categories:
 
 # Ethical Leadership & building bridges
 
-I updated my LinkedIn profile with “Ethical Leader” next to being a transformation architect, but what’s implied with this choice of terminology and how does it intend sound forward-looking?
+I updated my LinkedIn profile with “Ethical Leader” next to being a transformation architect, but what’s implied with this choice of terminology and how does it sound forward-looking?
 
 Well, in a world of daily uncertainties echoed as —*geopolitical tensions, nationalist movements, technological disruption, and climate change*— I wanted to shift my views about society and the actions I take. 
 
@@ -31,7 +31,7 @@ Here’s how ethical leadership can articulate a fresh, visionary, energizing fo
 •	**Ethics for a changing world**. When the ground shifts rapidly, ethical leadership ensures that change benefits not just organizations but also communities and society. It turns progress—from global trade shifts to AI—into something inclusive, responsible, and empowering, rather than divisive or exploitative. Ethical leaders ask, “How can this change improve lives for all and serve the greater good?”.
 
 
-These are the 5Cs that trigger my enthusiasm and help me build such valuable bridges : 
+And here are the 5Cs that trigger my enthusiasm and help me build such valuable bridges : 
 - Inspire with **C**onfidence, 
 - Lead with **C**ourage, 
 - Drive by **C**ommitment, 
