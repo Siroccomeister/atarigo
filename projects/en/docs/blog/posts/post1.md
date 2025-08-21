@@ -11,15 +11,12 @@ Every day we are bombarded with (depressing) news and (alarming) media. Then we 
 
 So as we navigate together in these waters, the question I ask myself is : am I really progressing?
 
-<figure markdown>
-![Walking in the desert of Morocco](post1/post1.0.jpeg){ width=60% }
+<figure markdown> 
+  ![Walking in the desert of Morocco](post1/post1.0.jpeg){ width=60% } 
 </figure>
-
 <!-- more -->
 
 Say I am in the desert, on my way to Promised Land, returning to Egypt is not an option. My direction is clear. And yet : how can I assess my progress and feel satisfied? As nothing resembles more to a sand dune than another sand dune, am I not falling back on my path?
-
-<insert picture from Morocco>
 
 Now of course, some days are *special*. They might be highlights such as anniversaries or successes. They will stand-out and you could say that achieving those outcomes are real proof points of your progress. You might even get compensated for those. But those might be what (...) 10-20 days in a year? That still leaves you with ~340 days.
 

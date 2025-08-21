@@ -15,4 +15,3 @@ A couple of inspirations that I combined to incept this:
 ![An angel played by Bruno Ganz discovers his senses in Wings of Desire](assets/images/Wim Wenders Angel.png){ width="500px" }
 <figcaption markdown>© Wim Wenders / Argos Films </figcaption>
 </figure>
-

@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>http://127.0.0.1:8000/atari/en/</loc>
-         <lastmod>2024-12-20</lastmod>
+         <lastmod>2025-08-20</lastmod>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/atari/en/blog/</loc>
-         <lastmod>2024-12-20</lastmod>
+         <lastmod>2025-08-20</lastmod>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/atari/en/blog/post1/</loc>
-         <lastmod>2024-12-20</lastmod>
+         <lastmod>2025-08-20</lastmod>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/atari/en/blog/post2/</loc>
-         <lastmod>2024-12-20</lastmod>
+         <lastmod>2025-08-20</lastmod>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/atari/en/blog/category/personal-development/</loc>
-         <lastmod>2024-12-20</lastmod>
+         <lastmod>2025-08-20</lastmod>
     </url>
 </urlset>

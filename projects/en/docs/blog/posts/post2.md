@@ -32,22 +32,21 @@ If you want to feel inspired by great communicators, look-up a speech of Martin 
 === "Jandro's magic with a smile"
 
     <div><div style="position:relative;padding-top:56.25%;">
-		<iframe src="https://www.youtube.com/embed/SyX9w05JHuQ?si=RUpRWK5C8I4z5_fV" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
-		</div></div>
-    
+    	<iframe src="https://www.youtube.com/embed/SyX9w05JHuQ?si=RUpRWK5C8I4z5_fV" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
+    	</div></div>
+
 === "MLK speech : what's your life blueprint?"
 
     Six months before he was assassinated, Martin Luther King [spoke](post2/post2_MLK_blueprint.pdf) to a group of students at Barratt Junior High School in Philadelphia on October 26, 1967.
     <div><div style="position:relative;padding-top:56.25%;">
-		<iframe src="https://www.youtube.com/embed/ZmtOGXreTOU?si=FaUnt6oMTdRahSgi" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
-		</div></div>
-		
+    	<iframe src="https://www.youtube.com/embed/ZmtOGXreTOU?si=FaUnt6oMTdRahSgi" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
+    	</div></div>
+
 === "Dani has an amazing card trick"
 
     <div><div style="position:relative;padding-top:56.25%;">
-		<iframe src="https://www.youtube.com/embed/5_KcQt0z-eE?si=UI_0DMP6TJ9M2b7T" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
-		</div></div>
-
+    	<iframe src="https://www.youtube.com/embed/5_KcQt0z-eE?si=UI_0DMP6TJ9M2b7T" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
+    	</div></div>
 
 
 
