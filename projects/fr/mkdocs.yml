@@ -5,6 +5,7 @@ theme:
   name: material
   language : fr
   logo: assets/images/atarigo.jpg
+  favicon: assets/images/favicon.ico
   icon:
     annotation: material/plus-circle
   features:
@@ -37,7 +38,6 @@ extra_javascript:
 
 
 extra:
-  favicon: assets/images/atarigo.png
   alternate:
     - name: English
       link: ../en/

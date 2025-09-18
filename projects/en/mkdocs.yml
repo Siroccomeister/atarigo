@@ -4,6 +4,7 @@ site_description: My personal repository and online blog
 theme:
   name: material
   logo: assets/images/atarigo.jpg
+  favicon: assets/images/favicon.ico
   icon:
     annotation: material/plus-circle
   features:
@@ -36,7 +37,6 @@ extra_javascript:
 
 
 extra:
-  favicon: assets/images/atarigo.png
   alternate:
     - name: English
       link: . 
