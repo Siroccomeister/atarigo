@@ -37,6 +37,7 @@ extra_javascript:
 
 
 extra:
+  favicon: assets/images/atarigo.png
   alternate:
     - name: English
       link: ../en/
