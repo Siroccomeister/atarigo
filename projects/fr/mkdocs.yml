@@ -6,6 +6,7 @@ theme:
   language : fr
   logo: assets/images/atarigo.jpg
   favicon: assets/images/favicon.ico
+  custom_dir: overrides
   icon:
     annotation: material/plus-circle
   features:
