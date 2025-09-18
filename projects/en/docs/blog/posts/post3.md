@@ -5,9 +5,9 @@ categories:
   - Personal Development
 ---
 
-# Ethical Leadership & building bridges
+# Building bridges
 
-I updated my LinkedIn profile with “Ethical Leader” next to being a transformation architect, but what’s implied with this choice of terminology and how does it sound forward-looking?
+I updated my LinkedIn profile with “Ethical Leader” next to being a transformation architect, but what’s implied with this choice of terminology and how does it sound forward-looking? What's behind Ethical Leadership and how does it help building bridges.
 
 Well, in a world of daily uncertainties echoed as —*geopolitical tensions, nationalist movements, technological disruption, and climate change*— I wanted to shift my views about society and the actions I take. 
 
