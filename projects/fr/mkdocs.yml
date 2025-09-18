@@ -3,10 +3,10 @@ site_description: Mon site de référence et de blog
 
 theme:
   name: material
+  custom_dir: overrides
   language : fr
   logo: assets/images/atarigo.jpg
   favicon: assets/images/favicon.ico
-  custom_dir: overrides
   icon:
     annotation: material/plus-circle
   features:
