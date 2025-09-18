@@ -4,8 +4,8 @@ site_description: My personal repository and online blog
 theme:
   name: material
   custom_dir: overrides
-  logo: assets/images/atarigo.jpg
   favicon: assets/images/favicon.ico
+  logo: assets/images/atarigo.jpg
   icon:
     annotation: material/plus-circle
   features:
