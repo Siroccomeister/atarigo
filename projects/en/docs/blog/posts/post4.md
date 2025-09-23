@@ -76,4 +76,3 @@ So : one can only hope that vision, peace but also a lucid reality check will dr
 
 How about other countries ? Well I invite you to look at your own country's situation. On my side, I did also check Germany, USA, Switzerland and am trying to create a simple dashboard to keep up. I do suspect this is wise practice given times ahead.
 
-
