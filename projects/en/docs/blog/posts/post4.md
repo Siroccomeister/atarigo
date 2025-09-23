@@ -52,7 +52,7 @@ As the chart illustrates, GDP annual growth  coverage of primary budget balance 
 <figcaption markdown> A simple explanation of debt dynamics. </figcaption>
 </figure>
 
-But the combined effect of all those dynamics and trends is shown in this last chart. Here you can really see the actuals of the debt-to-GDP ratio (the blue bars) as well as the year-on-year variation (GDP Growth in % points).
+But the combined effect of all those dynamics and trends is shown in this last chart. Here you can really see the actuals of the debt-to-GDP ratio (increasing linear graph in %) as well as the year-on-year variation  (red bars signal a year-on-year declining ratio measured in points of %).
 
 <figure markdown>
 ![Detailed Chart of Debt dynamics](post4/debt_dynamics_2030.png){ width=60% }
@@ -75,9 +75,5 @@ Conversely, one should not ignore the high debt, the high taxes on enterprises, 
 So : one can only hope that vision, peace but also a lucid reality check will drive gear shifting to find the appropriate pace 🙏.
 
 How about other countries ? Well I invite you to look at your own country's situation. On my side, I did also check Germany, USA, Switzerland and am trying to create a simple dashboard to keep up. I do suspect this is wise practice given times ahead.
-
-
-
-
 
 
