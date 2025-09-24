@@ -19,11 +19,11 @@ Dans ce post je reviens sur les points forts d’un week-end prolongé à Paris,
 ## Le Palais Garnier
 
 
-Ce que je retiens : l’opéra a été construit sous Napoléon III à partir de 1861 par l’architecte Charles Garnier. Il aurait remporté le concours à 35 ans en  en innovant par les couleurs (nombreux marbres avec nuances et camaïeux). L’opéra a ouvert en 1875, l’empereur Napoléon III devait y prendre ses quartiers mais cela ne s’est jamais concrétisé, notamment à cause de la guerre de 1870 entraînant la chute du Second Empire.
+Ce que je retiens : l’opéra a été construit sous Napoléon III à partir de 1861 par l’architecte Charles Garnier. Il aurait remporté le concours à 35 ans en  en innovant par les couleurs (nombreux marbres avec nuances et camaïeux). L’opéra a ouvert en 1875, l’empereur Napoléon III devait y prendre ses quartiers mais cela ne s’est jamais concrétisé, notamment à cause de la guerre de 1870 entraînant la chute du Second Empire. Nous fêtons donc les **150 ans** 🥳 🎂 de l'Opéra cette année 2025!
 
 En termes de places, l’opéra dispose de près de 2’000 sièges et ensemble avec l’opéra Bastille (ouvert en 1989, architecte : Carlos Ott), cela constitue un ensemble de près de 5’000 sièges placés sous l’égide de l’Opéra National de Paris. En effet les troupes et les musiciens sont partagés sur les 2 sites. 
 
-Quelques faits notables à retenir :
+Quelques faits notables  à relever :
 
 - [x] Les petits rats de l’opéra s’entrainaient dans les combles, et on entendait donc leurs “petits pas” sur les planches en bois.
 - [x] L’entracte était un moment majeur, durant lequel on se retrouvait dans la galerie du Grand Foyer. Il fallait alors briller en société, que ce soit en apparence ou bien par le verbe. Un moment où la vivacité d’esprit était très demandée !
@@ -34,15 +34,17 @@ Quelques faits notables à retenir :
 - [x] La bibliothèque dispose de près de 600’000 ouvrages (livres, partitions, livrets, photographies)
 - [x] Les costumes sont réalisés par les ateliers de l’opéra, souvent dessinés par des grandes maisons de couture
 
-Malheureusement, nous n’avons pas pu accéder à la salle de spectacle car une répétition était en cours. Cela nous a empêché d’admirer le plafond, une fresque monumentale peinte par Marc Chagall qui recouvre depuis 1964 le plafond original jugé trop austère par le ministre de la culture André Malraux. L’original était circulaire et ouvert en son centre, afin de laisser s’échapper les fumées de l’énorme chandeliers à becs de gaz. La nouvelle fresque est joliment nommée “le grand lustre du Palais” et Chagall a toujours refusé d’être rémunéré pour ce travail.
+Malheureusement, nous n’avons pas pu accéder à la salle de spectacle car une répétition était en cours. Cela nous a empêché d’admirer le plafond, une fresque monumentale peinte par Marc Chagall qui recouvre depuis 1964 le plafond original jugé trop austère par le ministre de la culture André Malraux. L’original était circulaire et ouvert en son centre, afin de laisser s’échapper les fumées de l’énorme chandelier à becs de gaz. ☝️ D'ailleurs ce chandelier-lustre restait allumé durant les représentations! La nouvelle fresque est joliment nommée “le grand lustre du Palais” et Chagall a toujours refusé d’être rémunéré pour ce travail.
 
 Evidemment, dans un tel lieu, les symboles sont nombreux. Apollon et le soleil sont mis à l’honneur, ainsi que toute une symbolique de la mythologie : la fontaine, le dragon/salamandre, multiples statues dont la Pythie qui nous accueille en bas de l'escalier.
+
+Aujourd'hui, aller à l'opéra n'est plus un lieu de rencontres mais plutôt un loisir culturel. On voyage dans le temps, on fait revivre cet esprit culturel. Evidemment l'Opéra Bastille offre un cadre bien plus moderne, mais il lui manquera le charme de l'histoire et des clins d'oeils.
 
 <figure markdown>
 ![La Pythie de Delphes qui prophétise sur le Dieu Apollon](post2/Garnier_image_10.jpg){ width=60% }
 <figcaption markdown> La Pythie de Delphes qui prophétise sur le Dieu Apollon </figcaption>
 
-![Dragon Salamandre](post2/Garnier_image_1.jpg){ width=50% }
+![Dragon Salamandre le long des marches](post2/Garnier_image_1.jpg){ width=50% }
 <figcaption markdown> Dragon Salamandre le long des marches </figcaption>
 
 ![Escalier montant vers la salle de spectacle et marbres multicolores](post2/Garnier_image_2.jpg){ width=50% }
