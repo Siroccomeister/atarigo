@@ -16,4 +16,8 @@
          <loc>http://127.0.0.1:8000/atari/fr/blog/post2/</loc>
          <lastmod>2025-09-24</lastmod>
     </url>
+    <url>
+         <loc>http://127.0.0.1:8000/atari/fr/blog/post3/</loc>
+         <lastmod>2025-09-24</lastmod>
+    </url>
 </urlset>

@@ -1,6 +1,6 @@
 ---
 draft: false 
-date: 2025-09-24 
+date: 2025-09-23 
 categories:
   - Culture
 ---
