@@ -184,7 +184,7 @@ La Vénus de Milo est l’une des statues antiques les plus célèbres au monde.
 
 La Victoire de Samothrace (Nikè) est une sculpture monumentale du IIᵉ siècle av. J.-C., chef-d’œuvre de l’art hellénistique grec. Exposée en majesté au sommet de l’escalier Daru du Louvre, elle fut découverte en 1863 sur l’île de Samothrace, où elle ornait le sanctuaire des Grands Dieux. Elle représente la déesse ailée de la Victoire, saisie au moment où elle prend son envol ou atterrit sur la proue d’un navire : le mouvement du drapé et la force du torse expriment la puissance et le souffle divin. Sa tête et ses bras sont manquants, accentuant son caractère énigmatique. Cette œuvre commémore une victoire navale et fut conçue comme une offrande religieuse — son emplacement élevé au Louvre renforce l’effet spectaculaire et la sensation de triomphe qu’elle incarne.
 
-### Peintures : Italie et France {#peintures}
+### Peintures : Italie et France {#peinture}
 
 <figure markdown>
 ![Le Radeau de la Méduse (Géricault)](post3/Louvre_image_10.jpg){ width=50% }
@@ -279,7 +279,7 @@ La **Galerie d'Apollon** constitue une  ébauche de la Galerie des Glaces car ap
 <figcaption markdown> Tapisserie murale : Henri IV </figcaption>
 </figure>
 
-Exemple de tapisserie tissée et peinte : ce portrait ornemental d’Henri IV dans la galerie d’Apollon. Il s’agit d’une grande tapisserie réalisée à la manufacture des Gobelins à la fin du XIXe siècle, d’après un modèle de Paul-Victor Galland. On y voit Henri IV en buste, en armure, ceint de l’écharpe blanche des Bourbons, entouré d’une profusion de fruits, de guirlandes et de figures ailées qui célèbrent son règne. Au bas du médaillon figurent les armoiries de France et de Navarre, surmontées de la couronne royale et encadrées des colliers des ordres de Saint-Michel et du Saint-Esprit, soulignant à la fois l’héritage dynastique et l’union des royaumes.
+Exemple de tapisserie tissée : ce portrait ornemental d’Henri IV dans la galerie d’Apollon. Il s’agit d’une grande tapisserie réalisée à la manufacture des Gobelins à la fin du XIXe siècle, d’après un modèle de Paul-Victor Galland. On y voit Henri IV en buste, en armure, ceint de l’écharpe blanche des Bourbons, entouré d’une profusion de fruits, de guirlandes et de figures ailées qui célèbrent son règne. Au bas du médaillon figurent les armoiries de France et de Navarre, surmontées de la couronne royale et encadrées des colliers des ordres de Saint-Michel et du Saint-Esprit, soulignant à la fois l’héritage dynastique et l’union des royaumes.
 
 Henri IV (1553-1610), roi de Navarre puis de France à partir de 1589, est célébré pour avoir rétabli la paix civile après les guerres de Religion en promulguant l’édit de Nantes en 1598, qui garantit une certaine tolérance religieuse. Il favorisa la reconstruction économique, encouragea l’agriculture, l’urbanisme et le commerce, et œuvra à la centralisation du pouvoir monarchique. La galerie d’Apollon met à l’honneur les grands souverains bâtisseurs du Louvre, et Henri IV est ici glorifié à la fois comme pacificateur et comme grand roi modernisateur de la capitale et du royaume.
 
@@ -332,7 +332,7 @@ La renommée internationale de la Mona Lisa s’est amplifiée après son vol au
 
 - content: Lion de Mari ; Stèle de Hammurabi <br> [![Lion](./post3/rounded_icon_Lion.png){ width="50" }](#proche-orient) [![Hammurabi](./post3/rounded_icon_Hammurabi.png){ width="50" }](#proche-orient)
   sub_title: 2'000 av. J-C
-  title: Antiquité (Mésopotamie)
+  title: Antiquité (Sumer)
   
 - content: Buste d'Akhenaton <br> [![Akhenaton](./post3/rounded_icon_Akhenaton.png){ width="50" }](#sphinx)
   sub_title: 1'350 av. J-C
@@ -340,7 +340,7 @@ La renommée internationale de la Mona Lisa s’est amplifiée après son vol au
  
 - content: Héros maitrisant un lion <br> [![Héros](./post3/rounded_icon_Heros.png){ width="50" }](#proche-orient)
   sub_title: 710 av. J-C
-  title: Antiquité (Mésopotamie)
+  title: Antiquité (Babylone)
   
 - content: Lion sur brique <br> [![Héros](./post3/rounded_icon_Lion_brique.png){ width="50" }](#proche-orient)
   sub_title: 600 av. J-C
