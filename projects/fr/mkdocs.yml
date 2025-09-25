@@ -93,12 +93,17 @@ markdown_extensions:
    - attr_list
    - md_in_html
    - neoteroi.cards
+   - neoteroi.timeline
    - admonition
    - toc:
        permalink: false
        toc_depth: 3
    - pymdownx.details
-   - pymdownx.superfences
+   - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
    - pymdownx.tasklist:
        custom_checkbox: true
    - pymdownx.tabbed:

@@ -39,6 +39,7 @@ A partir du roi François 1er, des collections d'oeuvres sont accumulées, d'abo
 Les collections du  Louvre sont d'abord accessibles aux aristocrates et certains privilégiés peuvent ainsi admirer les oeuvres royales (notamment les peintures), mais c'est avec la révolution de 1789 qu'il deviendra réellement musée : le peuple aura désormais accès aux trésors qu'il abrite et ce gratuitement. Le Museum national des arts est né.
 
 !!! note "Les rois thaumaturges : « Le roi te touche, Dieu te guérit » (...) des écrouelles, au bord de l'eau."
+    
     Le pouvoir des rois thaumaturges vient d’une croyance médiévale selon laquelle les rois de France et d’Angleterre, en raison de leur sacre et de leur caractère sacré, étaient capables de guérir miraculeusement les écrouelles (maladie des ganglions, appelée aujourd’hui adénite tuberculeuse) par le simple toucher et le signe de croix. Cette faculté, apparue à partir du règne de Philippe Ier et attestée sous Louis VI, était considérée comme un don divin transmis lors du sacre à Reims et associé à la fonction royale.
     
     La cérémonie des écrouelles évolue d’un geste quotidien sous Saint Louis à un grand rituel public et solennel à partir du XVe siècle : les malades étaient regroupés lors de grandes fêtes chrétiennes, souvent au Louvre, où le roi les effleurait en prononçant la formule « Le roi te touche, Dieu te guérit ». À l’issue du toucher, il était fréquent que les guéris reçoivent une écuelle (petite coupe, parfois bénite) ayant servi à la cérémonie, en guise de souvenir et de gage de protection.
@@ -170,6 +171,7 @@ Contexte culturel : Diane exprime l’idéal féminin antique (indépendance, é
 La Vénus de Milo est l’une des statues antiques les plus célèbres au monde. Découverte en 1820 sur l’île grecque de Milo, elle a rapidement rejoint les collections du Louvre en 1821. Sculptée en marbre vers 150–130 av. J.-C., elle représente une déesse à demi nue, généralement identifiée à Aphrodite (Vénus pour les Romains), la déesse de l’amour et de la beauté. L’absence de ses bras fait partie de son mystère et nourrit l’imaginaire des visiteurs : plusieurs hypothèses existent sur la position qu’ils occupaient (tenant une pomme, ou un miroir…). Son style conjugue l’élégance classique et le raffinement hellénistique, faisant d’elle un symbole universel de la beauté féminine. L’œuvre fascine aussi par son histoire mouvementée et par le débat sur son identification : certains la relient à Amphitrite, divinité locale de Milo, mais la représentation sensuelle penche pour Aphrodite.
 
 !!! note "L'idée de la pomme évoque la pomme de la discorde"
+
     Le mythe grec de la 🍏 « pomme de la discorde » débute au mariage de Pélée et Thétis, auquel la déesse Éris (Discorde) n’est pas invitée. Pour se venger, elle jette au banquet une pomme d’or portant l’inscription « À la plus belle ».
     
 
@@ -189,39 +191,65 @@ La Victoire de Samothrace (Nikè) est une sculpture monumentale du IIᵉ siècle
 <figcaption markdown> Le Radeau de la Méduse (Géricault) </figcaption>
 </figure>
 
-Gericault a rencontré les rescapés de la Méduse, histoire suivie par le public, comme le vol de la Joconde. Sublime les émotions, apologie de l'esclavage (aboli en 1848 car rétabli par Napoléon 1er). 
+Le Radeau de la Méduse, peint par Théodore Géricault entre 1818 et 1819, est l’une des œuvres les plus emblématiques du Louvre et un jalon majeur du romantisme français. Géricault, alors âgé de 27 ans, a mené une enquête approfondie pour réaliser ce tableau : il a rencontré des rescapés du naufrage, un événement devenu scandale national et qui fascina l’opinion publique, à l’instar du vol de la Joconde un siècle plus tard. L’artiste sublime les émotions, donne une dimension tragique à la scène, et aborde en filigrane la question de l’esclavage : il faut rappeler que la Révolution française avait aboli l’esclavage dès 1794, avant que Napoléon Ier ne le rétablisse en 1802 ; l’abolition définitive ne sera votée qu’en 1848.
 
-Le radeau ne serait pas restaurable à cause du Zinc. Peut être disparue dans 50ans?
+Sur la toile, le personnage noir qui s’élève et agite son linge vers l’horizon est souvent interprété comme une figure d’espoir et de libération : il symbolise l’attente du salut, mais aussi l’émancipation de tous les opprimés, particulièrement ceux qui étaient encore soumis à l’esclavage au moment de la réalisation du tableau. 
+
+Aujourd’hui exposé au Louvre, ce chef-d’œuvre pose également des défis de conservation : la présence de zinc dans la toile rendrait une restauration future très difficile, au point que certains spécialistes redoutent sa disparition d’ici à cinquante ans.
+
+!!! note "Un naufrage qui fit scandale!"
+    
+    Le naufrage de la Méduse fut un scandale en France, car il révéla l’incompétence et le népotisme présents au sommet de l’État royaliste restauré. En 1816, le navire était commandé par Hugues Duroy de Chaumareys, un capitaine qui n’avait pas navigué depuis vingt-cinq ans et qui avait été nommé à ce poste principalement pour des raisons politiques. Son manque d’expérience causa l’échouage de la frégate sur un banc de sable au large de la Mauritanie, alors que des procédures standard auraient permis d’éviter la catastrophe.
+    
+    L’affaire prit une dimension nationale et politique car la gestion du sauvetage fut désastreuse : les officiers et passagers les plus gradés se sont attribué les places dans les canots, tandis que 150 personnes furent abandonnées sur un radeau de fortune. Les survivants ont ensuite enduré la faim et la soif, des violences extrêmes, du cannibalisme et des meurtres. Le rapport du chirurgien Savigny, accompagné de récits publiés dans la presse, exposa ces faits à l’opinion publique, mettant en lumière les abus de pouvoir, l’irresponsabilité du commandement et amplifiant la crise politique de la monarchie, ce qui fit du naufrage un véritable scandale d’État
+
 
 <figure markdown>
 ![La Liberté](post3/Louvre_image_11.jpg){ width=50% }
-<figcaption markdown> La Liberté </figcaption>
+<figcaption markdown> « La Liberté guidant le peuple » peint par Eugène Delacroix en 1830, juste après la révolution des Trois Glorieuses (27, 28 et 29 juillet 1830) </figcaption>
 </figure>
 
-La Liberté- tours de N-D. Ambiguïté car Delacroix montre une femme du peuple, révolution de 1840 (royaliste?) mais plus tard, symbole républicain (3ème république). 
+L’ambiguïté du tableau « La Liberté guidant le peuple » de Delacroix tient à la fois au contexte politique et à la personnalité de l’artiste. Delacroix n’était pas franchement républicain : il était libéral, admirateur de Napoléon, mais aussi proche du nouveau roi Louis-Philippe, qui cherchait à rallier la France après la Révolution de 1830. 
 
+Le tableau célèbre le soulèvement 😡 contre Charles X  et la fin de la dynastie des Bourbons 💪; Delacroix choisit d’incarner la Liberté par une femme du peuple – une figure réaliste et charnelle, dont les détails comme la pilosité sous les aisselles montrent qu’il ne veut pas styliser ni idéaliser son sujet. Cette femme entraîne tous les révolutionnaires à Paris (tours de N-D à l'arrière-plan), mais elle n’a pas encore le statut républicain qu’elle recevra plus tard sous la IIIème République : elle incarne d’abord l’esprit de 1830, c’est-à-dire un désir de liberté traversant les classes populaires, sans être purement républicain.
+
+La Monarchie de Juillet, établie par Louis-Philippe "1er roi citoyen", se présente comme une monarchie constitutionnelle et libérale, mais elle reste fondée sur le suffrage censitaire : le pouvoir est réservé aux plus riches et la vraie démocratie est encore lointaine. 
+
+L’œuvre est ainsi à la fois une ode à la souveraineté du peuple et une illustration des paradoxes de l’époque, où le drapeau tricolore réapparaît, mais la République n’est encore qu’un horizon, pas une réalité politique. Delacroix y propose donc une allégorie forte, mais subtile, de la liberté populaire, qui sera interprétée bien plus tard comme « Marianne », figure de la République triomphante.
 
 <figure markdown>
-![Jeanne d'Arc](post3/Louvre_image_12.jpg){ width=50% }
-<figcaption markdown> Jeanne d'Arc </figcaption>
+![« Jeanne d’Arc au sacre du roi Charles VII, dans la cathédrale de Reims »](post3/Louvre_image_12.jpg){ width=50% }
+<figcaption markdown> « Jeanne d’Arc au sacre du roi Charles VII, dans la cathédrale de Reims » - 1854 </figcaption>
 </figure>
+
+Un symbole particulièrement fort dans ce tableau d’Ingres est la représentation de Jeanne d’Arc (dite "La Pucelle d'Orléans") en armure, la main posée sur l’autel garni d’objets liturgiques et royaux, rendant ainsi hommage à la fois au sacré et à la légitimité monarchique. 
+
+L’étendard qu’elle tient rappelle son rôle de messagère divine, tandis que les lys, omniprésents sur le tissu et les décors, symbolisent la royauté française. Un détail notable : Ingres la dote d’une auréole, anticipant sa canonisation, et affirme ainsi son statut de sainte nationale alors que l’Église ne l’a pas encore reconnue officiellement.
 
 <figure markdown>
 ![La chasteté](post3/Louvre_image_13.jpg){ width=50% }
-<figcaption markdown> La chasteté </figcaption>
+<figcaption markdown> "La chaste Suzanne" - 1839, Théodore Chassériau </figcaption>
 </figure>
+
+Ce tableau s’intitule « Suzanne au bain » (souvent nommé « La chaste Suzanne »). L’œuvre illustre l’épisode biblique de Suzanne, symbole de pureté et d’innocence injustement accusée, surprise lors de son bain. Chassériau met en valeur la transparence de la draperie mouillée, sublimant à la fois la chasteté et la sensualité du personnage. Un fait notable : la scène, à la fois pudique et sensuelle, montre l’influence de ses deux maîtres, Ingres (pour la pureté du dessin) et Delacroix (pour les effets de lumière et d’atmosphère)
 
 <figure markdown>
 ![Napoléon](post3/Louvre_image_14.jpg){ width=50% }
-<figcaption markdown> Napoléon </figcaption>
+<figcaption markdown> « Bonaparte franchissant les Alpes » - 1848, Paul Delaroche </figcaption>
 </figure>
 
+Ce tableau montre Napoléon lors du passage du col du Grand-Saint-Bernard en 1800, non pas sur un cheval cabré et triomphant comme dans la célèbre version de David, mais sur une simple mule, dans une posture humble, enveloppé dans une redingote grise, accompagné d’un guide.
+
+Fait notable : Delaroche opte pour le réalisme, illustrant la difficulté et la dimension humaine de cette expédition hivernale, loin de l’imagerie héroïque. Ce choix, à rebours de la glorification traditionnelle, met en avant la ténacité et l’endurance de Napoléon lors de la traversée des Alpes avec son armée, un épisode clé de la campagne d’Italie
 
 <figure markdown>
-![Napoléon](post3/Louvre_image_16.jpg){ width=50% }
-<figcaption markdown> Napoléon </figcaption>
+![« Napoléon s’éveillant à l’Immortalité »](post3/Louvre_image_16.jpg){ width=50% }
+<figcaption markdown> « Napoléon s’éveillant à l’Immortalité » - 1847 </figcaption>
 </figure>
 
+Il s’agit de « Napoléon s’éveillant à l’Immortalité », aussi appelée parfois « Le Réveil de Napoléon », réalisée par François Rude en 1847 (plâtre, modèle pour un monument funéraire). La sculpture montre l’empereur en manteau et couronne de laurier, se relevant comme d’un linceul, suggérant à la fois la mort et la résurrection glorieuse.
+
+Fait notable : l’attitude de Napoléon, le visage serein et les yeux clos, confère à l’œuvre un caractère à la fois funèbre et héroïque — une sorte d’allégorie de la survivance du mythe napoléonien, figurant le retour à l’immortalité dans la mémoire nationale, bien après la fin de son règne.
 
 <figure markdown>
 ![Louis Le Grand (XIV) et la Quête du Temps!](post3/Louvre_image_24.jpg){ width=50% }
@@ -238,32 +266,55 @@ La Liberté- tours de N-D. Ambiguïté car Delacroix montre une femme du peuple,
 <figcaption markdown> Galerie d'Appollon </figcaption>
 </figure>
 
-La **Galerie d'Apollon** (Louis XIV) constitue une  ébauche de la Galerie des Glaces car après 20 ans, le roi Soleil  déménagera au Chateau de Versailles. On peut y voir aussi les Joyaux de la Couronne, une collection initiée par François 1er qui utilise le trésor pour acheter un premier rubis :  le Côte de Bretagne. Autre pièce marquante : Le Régent, diamant d'une taille conséquente et réputé être le plus pur au monde (transparence exceptionnelle). Époque Louis XV (Philippe d’Orléans n’est pas le père mais le cousin du roi, il exerce le pouvoir en son nom pendant la minorité du jeune Louis XV.).
+La **Galerie d'Apollon** constitue une  ébauche de la Galerie des Glaces car après 20 ans, le roi Soleil Louis XIV déménagera du Louvre au Chateau de Versailles. On peut y voir notamment les Joyaux de la Couronne, une collection initiée par François 1er qui utilise le trésor pour acheter un premier rubis :  le Côte de Bretagne. Autre pièce marquante : Le Régent, diamant d'une taille conséquente et réputé être le plus pur au monde (transparence exceptionnelle). Époque Louis XV (Philippe d’Orléans n’est pas le père mais le cousin du roi, il exerce le pouvoir en son nom pendant la minorité du jeune Louis XV.).
 
 !!! notes "Tapisseries murales peintes"
+
     Certains portraits installés sur les murs de la galerie d’Apollon sont bien des tapisseries tissées (et non des peintures sur toile ou bois). En effet, lors de la restauration du Louvre au XIXᵉ siècle (Sous Napoléon III et le Second Empire), une commande de l’État fut passée à la Manufacture des Gobelins pour exécuter des grandes tapisseries de haute lisse représentant les rois, reines et artistes liés au Louvre et à son histoire.
     
     Ces portraits sont donc tissés en laine, coton et soie, selon la technique traditionnelle des Gobelins, d’après des cartons peints par des artistes comme Appert, Jobbé-Duval, ou sur des modèles de Hyacinthe Rigaud pour Louis XIV. Elles sont fixées aux murs, à l’instar de véritables tableaux, et viennent compléter le décor somptueux de la galerie d’Apollon : elles incarnent l’alliance du prestige textile français et de la représentation dynastique, et sont bien des œuvres tissées (pas peintes).
 
 <figure markdown>
 ![HIV!](post3/Louvre_image_5.jpg){ width=50% }
-<figcaption markdown> HIV! </figcaption>
+<figcaption markdown> Tapisserie murale : Henri IV </figcaption>
 </figure>
 
+Exemple de tapisserie tissée et peinte : ce portrait ornemental d’Henri IV dans la galerie d’Apollon. Il s’agit d’une grande tapisserie réalisée à la manufacture des Gobelins à la fin du XIXe siècle, d’après un modèle de Paul-Victor Galland. On y voit Henri IV en buste, en armure, ceint de l’écharpe blanche des Bourbons, entouré d’une profusion de fruits, de guirlandes et de figures ailées qui célèbrent son règne. Au bas du médaillon figurent les armoiries de France et de Navarre, surmontées de la couronne royale et encadrées des colliers des ordres de Saint-Michel et du Saint-Esprit, soulignant à la fois l’héritage dynastique et l’union des royaumes.
+
+Henri IV (1553-1610), roi de Navarre puis de France à partir de 1589, est célébré pour avoir rétabli la paix civile après les guerres de Religion en promulguant l’édit de Nantes en 1598, qui garantit une certaine tolérance religieuse. Il favorisa la reconstruction économique, encouragea l’agriculture, l’urbanisme et le commerce, et œuvra à la centralisation du pouvoir monarchique. La galerie d’Apollon met à l’honneur les grands souverains bâtisseurs du Louvre, et Henri IV est ici glorifié à la fois comme pacificateur et comme grand roi modernisateur de la capitale et du royaume.
+
 <figure markdown>
-![Un air bien triste...](post3/Louvre_image_6.jpg){ width=50% }
-<figcaption markdown> Un air bien triste... </figcaption>
+![Un air bien triste : Saint Sébastien peint par Andrea Mantegna vers 1480 ](post3/Louvre_image_6.jpg){ width=50% }
+<figcaption markdown> Un air bien triste : Saint Sébastien peint par Andrea Mantegna vers 1480 </figcaption>
 </figure>
+
+Ce tableau est le Saint Sébastien peint par Andrea Mantegna vers 1480, chef-d’œuvre de la Renaissance italienne. Il représente le martyr chrétien attaché à une colonne antique, transpercé de flèches, devant un décor de ruines et d’architecture classique. Mantegna y multiplie les références à l’Antiquité : la colonne corinthienne, les vestiges, mais aussi la précision de la musculature et la rigueur du dessin sont typiques de son style archéologique et humaniste.
+
+Un fait notable : Mantegna a signé l’œuvre en grec sur la colonne, et la composition symbolise autant la souffrance humaine que l’espérance chrétienne. Le Saint Sébastien était considéré, à l’époque, comme un protecteur contre la peste, et la force de l’œuvre tient à sa synthèse entre spiritualité, beauté du corps et innovation de la perspective.
 
 <figure markdown>
 ![Noces de Canaa](post3/Louvre_image_7.jpg){ width=50% }
-<figcaption markdown> Noces de Canaa </figcaption>
+<figcaption markdown> Plus grand tableau du Louvre : Noces de Cana - 1563, Paolo Véronèse </figcaption>
 </figure>
+
+Ce tableau monumental est peint pour le réfectoire du monastère San Giorgio Maggiore à Venise. Avec ses dimensions record de près de 10 mètres sur 7 (exactement 6,77 x 9,94 mètres), il est le plus grand tableau du musée. L’œuvre met en scène le récit biblique du premier miracle du Christ : lors d’un banquet de mariage à Cana, Jésus transforme l’eau en vin pour sauver la fête.
+
+Véronèse transpose cet épisode dans une Venise fastueuse du XVIe siècle, réunissant 132 personnages aux costumes vénitiens mêlés aux figures bibliques (Jésus, Marie, les mariés sur la gauche). 
+
+Un fait notable : Véronèse a intégré à la scène de nombreux portraits contemporains, dont probablement le sien parmi les musiciens au centre. Le foisonnement de détails, l’architecture illusoire et l’ambiance festive font des Noces de Cana un chef-d’œuvre de couleur, de vie et d’inventivité. 
 
 <figure markdown>
 ![Mona Lisa et ses adorateurs](post3/Louvre_image_8.jpg){ width=50% }
 <figcaption markdown> Mona Lisa et ses adorateurs </figcaption>
 </figure>
+
+La Joconde, chef-d’œuvre de Léonard de Vinci, est un portrait peint sur panneau de bois, célèbre pour la finesse de sa technique et la subtilité de son sfumato. Vinci aurait travaillé sur le tableau pendant plus d’une décennie, le reprenant régulièrement pour atteindre une perfection inégalée, ce qui rend la toile très difficile à copier, notamment en raison des craquelures caractéristiques visibles dans le bois, surtout à l’arrière.
+
+Le sourire de Mona-Lisa est surprenant pour l'époque. À la Renaissance, il était extrêmement rare de représenter un personnage, encore moins un portrait féminin, avec un sourire aussi subtil, mystérieux, et vivant. Ce sourire « suspendu » intrigue autant par son ambiguïté (servi par la maîtrise du sfumato et du modelé chez Vinci) que par sa réussite : il semble tour à tour doux, énigmatique ou malicieux, s’effaçant ou réapparaissant selon le regard du spectateur.
+
+Ce caractère unique – ni franchement joyeux, ni figé, mais empreint d’un charme indéfinissable – a fasciné les artistes, poètes et le public, faisant du sourire de Mona Lisa un élément central de sa légende et l’un des premiers sourires véritablement modernes de l’histoire de la peinture occidentale.
+
+La renommée internationale de la Mona Lisa s’est amplifiée après son vol au Louvre en 1911 par Vincenzo Peruggia, un ouvrier italien. Le tableau est resté introuvable durant deux ans : cet événement captivant a attiré des foules venues admirer le cadre vide, et la presse mondiale s’est emparée de l’affaire, transformant l’œuvre en véritable icône. Après sa récupération à Florence en 1913, la Joconde est devenue le tableau le plus connu du musée, surpassant sa seule valeur artistique. François Ier acheta le portrait à la fin de la vie de Vinci.
 
 <figure markdown>
 ![François 1er avait du nez !](post3/Louvre_image_9.jpg){ width=50% }

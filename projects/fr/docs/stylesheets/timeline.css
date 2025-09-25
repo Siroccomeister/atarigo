@@ -1,0 +1,38 @@
+.center-table {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.center-table table {
+  margin: 0;
+}
+
+
+.md-typeset table {
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  border-collapse: separate;
+  border-spacing: 0 0.1em;
+}
+
+.md-typeset th, .md-typeset td {
+  padding-top: 0.3em;
+  padding-bottom: 0.3em;
+  padding-left: 1em;
+  padding-right: 1em;
+  vertical-align: middle !important;
+  text-align: center !important;
+  font-size: 1.07em;
+}
+
+.md-typeset td img {
+  display: block;
+  margin: 0 auto;
+  border-radius: 50%;
+  width: 54px;
+  height: 54px;
+  background: #212121;
+  vertical-align: middle;
+}
