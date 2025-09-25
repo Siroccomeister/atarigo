@@ -1,0 +1,55 @@
+.nt-timeline-content::before,
+.nt-timeline-content::after {
+  display: none !important;
+  background: none !important;
+  border: none !important;
+  box-shadow: none !important;
+  content: none !important;
+}
+.nt-timeline-content {
+  border: none !important;
+  background: none !important;
+  box-shadow: none !important;
+  padding-bottom: 0 !important;
+  margin-bottom: 3 !important;
+  line-height: 1.5 !important; /* slightly reduces total block height */
+}
+
+.nt-timeline-content img {
+  vertical-align: middle !important;
+  margin-bottom: -2px !important;    /* reduce or make slightly negative to tighten space */
+  padding-bottom: 0 !important;
+  display: inline-block !important;
+}
+
+.nt-timeline-dot.bigger {
+  margin-top: 5px !important;
+  margin-left: 7px !important;
+  width: 24px !important;
+  height: 24px !important;
+  font-size: 16px !important;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  vertical-align: middle !important;
+}
+
+.nt-timeline-title {
+  margin-bottom: 0.1em !important;   /* Reduce this as needed (try 0 or even a negative value) */
+  padding-bottom: 0 !important;
+}
+.nt-timeline-content {
+  margin-top: 0 !important;          /* Ensure content sits right under title */
+  padding-top: 0 !important;
+}
+
+.nt-timeline-dot {
+  background: radial-gradient(circle at 60% 40%, #E0B200 60%, #1a1a1a 100%) !important;
+  border: 2px solid #8E7C1B !important;   /* darker gold/brown for refined edge */
+  box-shadow: none !important;
+}
+
+/* If the dot appears washed out, set box-shadow and color explicitly: */
+.nt-timeline-dot .icon {
+  display: none !important;
+}
