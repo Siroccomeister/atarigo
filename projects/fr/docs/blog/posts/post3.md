@@ -46,7 +46,7 @@ Les collections du  Louvre sont d'abord accessibles aux aristocrates et certains
     
     Ce rite, analysé en profondeur par l’historien Marc Bloch, marque le lien entre la royauté, la religion et le miracle : il perdure en France jusqu’à la fin de la monarchie, le dernier acte étant accompli par Charles X en 1825. La cérémonie au Louvre se déroulait traditionnellement dans la Grande Galerie (également appelée autrefois « Galerie du bord de l’eau ».
 
-### Antiquités : Proche-Orient
+### Antiquités : Proche-Orient {#proche-orient}
 
 <figure markdown>
 ![Héros maîtrisant un lion, façade de la salle du trône](post3/Louvre_image_17.jpg){ width=50% }
@@ -94,7 +94,7 @@ Ce panneau appartenait au décor de la Voie Processionnelle de Babylone qui cond
 <figcaption markdown> J'aimerais tant déchiffrer! </figcaption>
 </figure>
 
-### Antiquités : Egypte
+### Antiquités : Egypte { #sphinx }
 
 <figure markdown>
 ![Un Beau Sphinx : à l'inverse des Dieux, les Pharaons avaient le corps d'un animal et une tête humaine.](post3/Louvre_image_1.jpg){ width=50% }
@@ -142,7 +142,7 @@ Description et éléments caractéristiques
 </figure>
 
 
-### Antiquités : Grèce et Rome
+### Antiquités : Grèce et Rome {#greco-romain}
 
 <figure markdown>
 ![Femme voilée](post3/Louvre_image_15.jpg){ width=50% }
@@ -184,7 +184,7 @@ La Vénus de Milo est l’une des statues antiques les plus célèbres au monde.
 
 La Victoire de Samothrace (Nikè) est une sculpture monumentale du IIᵉ siècle av. J.-C., chef-d’œuvre de l’art hellénistique grec. Exposée en majesté au sommet de l’escalier Daru du Louvre, elle fut découverte en 1863 sur l’île de Samothrace, où elle ornait le sanctuaire des Grands Dieux. Elle représente la déesse ailée de la Victoire, saisie au moment où elle prend son envol ou atterrit sur la proue d’un navire : le mouvement du drapé et la force du torse expriment la puissance et le souffle divin. Sa tête et ses bras sont manquants, accentuant son caractère énigmatique. Cette œuvre commémore une victoire navale et fut conçue comme une offrande religieuse — son emplacement élevé au Louvre renforce l’effet spectaculaire et la sensation de triomphe qu’elle incarne.
 
-### Peintures : Italie et France
+### Peintures : Italie et France {#peintures}
 
 <figure markdown>
 ![Le Radeau de la Méduse (Géricault)](post3/Louvre_image_10.jpg){ width=50% }
@@ -320,3 +320,63 @@ La renommée internationale de la Mona Lisa s’est amplifiée après son vol au
 ![François 1er avait du nez !](post3/Louvre_image_9.jpg){ width=50% }
 <figcaption markdown> François 1er avait du nez ! </figcaption>
 </figure>
+
+### Frise historique
+
+::timeline:: center
+
+- content: Grand Sphinx de Tanis <br> [![Sphinx](./post3/rounded_icon_Sphinx.png){ width="50" }](#sphinx)
+  # icon: ':material-rocket-launch-outline:'
+  sub_title: 2'600 av. J-C
+  title: Antiquité (Egypte)
+
+- content: Lion de Mari ; Stèle de Hammurabi <br> [![Lion](./post3/rounded_icon_Lion.png){ width="50" }](#proche-orient) [![Hammurabi](./post3/rounded_icon_Hammurabi.png){ width="50" }](#proche-orient)
+  sub_title: 2'000 av. J-C
+  title: Antiquité (Mésopotamie)
+  
+- content: Buste d'Akhenaton <br> [![Akhenaton](./post3/rounded_icon_Akhenaton.png){ width="50" }](#sphinx)
+  sub_title: 1'350 av. J-C
+  title: Antiquité (Egypte)
+ 
+- content: Héros maitrisant un lion <br> [![Héros](./post3/rounded_icon_Heros.png){ width="50" }](#proche-orient)
+  sub_title: 710 av. J-C
+  title: Antiquité (Mésopotamie)
+  
+- content: Lion sur brique <br> [![Héros](./post3/rounded_icon_Lion_brique.png){ width="50" }](#proche-orient)
+  sub_title: 600 av. J-C
+  title: Nabuchodonosor II
+  
+- content: Diane Chasseresse <br> [![Diane Chasseresse](./post3/rounded_icon_Diane.png){ width="50" }](#greco-romain)
+  sub_title: 400 av. J-C
+  title: Antiquité (Grèce)
+  
+- content: Vénus de Milo ; Victoire de Samothrace <br> [![Vénus de Milo](./post3/rounded_icon_Venus.png){ width="50" }](#greco-romain) [![Victoire de Samothrace](./post3/rounded_icon_Victoire.png){ width="50" }](#greco-romain)
+  sub_title: 150 av. J-C
+  title: Antiquité (Grèce)
+  
+- content: Louvetterie
+  sub_title: 1'200
+  title: Bas Moyen-Âge
+  
+- content: Saint-Sébastien <br> [![Saint-Sebastien](./post3/rounded_icon_Sebastien.png){ width="50" }](#peinture)
+  sub_title: 1'480
+  title: Renaissance
+  
+- content: Noces de Cana (Véronèse) ; La Joconde (de Vinci) <br> [![Noces de Cana](./post3/rounded_icon_Cana.png){ width="50" }](#peinture) [![La Joconde](./post3/rounded_icon_Mona.png){ width="50" }](#peinture)
+  sub_title: 1'560
+  title: Peinture (Italie)
+  
+- content: Louis XIV déménage à Versailles
+  sub_title: 1'682
+  title: Ancien Régime (Roi Soleil)
+  
+- content: Femme Voilée <br> [![Femme Voilée](./post3/rounded_icon_Femme_voile.png){ width="50" }](#peinture)
+  sub_title: 1'717
+  title: Siècle des Lumières
+  
+- content: Peinture (France) avec Géricault, Delacroix...  <br> [![Radeau de la Méduse](./post3/rounded_icon_Radeau.png){ width="50" }](#peinture) [![La Liberté guidant le Peuple](./post3/rounded_icon_Liberté.png){ width="50" }](#peinture) [![La chaste Suzanne](./post3/rounded_icon_Chasteté.png){ width="50" }](#peinture) [![Napoléon s'éveillant](./post3/rounded_icon_Napoleon_seveillant.png){ width="50" }](#peinture) [![Napoléon franchissant les Alpes](./post3/rounded_icon_Napoleon_franchissant.png){ width="50" }](#peinture) [![Jeanne d'Arc](./post3/rounded_icon_Jeanne.png){ width="50" }](#peinture)
+
+  sub_title: 1'800 - 1'870
+  title: Consulat au Second Empire
+  
+::/timeline::

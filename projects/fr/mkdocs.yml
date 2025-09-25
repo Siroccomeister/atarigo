@@ -26,6 +26,8 @@ theme:
 extra_css:
   - stylesheets/extra.css
   - stylesheets/neoteroi-mkdocs.css
+  - stylesheets/neoteroi-timeline.css
+  - stylesheets/timeline.css
   - https://unpkg.com/tabulator-tables/dist/css/tabulator.min.css
   - https://unpkg.com/@raruto/leaflet-elevation@2.5.1/dist/leaflet-elevation.min.css
 
