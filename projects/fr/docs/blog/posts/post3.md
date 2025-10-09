@@ -13,6 +13,15 @@ Toujours en visite à Paris, nous nous plongeons dans une vision du monde multiv
 - [x] Le plus visité : 9 à 10  millions de visiteurs par an!
 - [x] Des chefs-d'oeuvre universels exposés dans un monument historique riche de 800 ans d'histoire.
 
+Il peut sembler difficile d’embrasser l’ensemble du parcours ayant conduit à notre civilisation actuelle, souvent qualifiée de post-chrétienne en Occident.
+
+- 	Avant Jésus-Christ, le berceau de la civilisation se situe au Proche-Orient : avec les Sumériens, Babyloniens, Égyptiens et Perses, qui transmettent leurs héritages aux cultures suivantes.
+- 	L’époque gréco-romaine marque ensuite une période charnière, où la culture du bassin méditerranéen se diffuse progressivement, avant que la chrétienté ne s’impose comme référence majeure avec l’adoption du christianisme dans l’Empire romain.
+- 	Le Moyen Âge voit l’émergence de l’Occident chrétien, approfondie par la christianisation progressive de l’Europe, la consolidation de nouveaux royaumes et la préservation des savoirs antiques sous différentes formes.
+- 	La Renaissance, le Siècle des Lumières et les grandes révolutions politiques accélèrent le développement occidental : diffusion des droits de l’homme, de la pensée scientifique, et avènement des démocraties républicaines qui dessinent la modernité politique et sociale jusqu’à aujourd’hui.
+
+Se promener au Louvre nous fait ainsi voyager dans le temps, nous éclaire sur d'où nous venons. A nous ensuite de faire le point et de se demander : à quoi s'attendre dans ce qui est devant nous? 🤔😉.
+
 <figure markdown>
 ![Buste d'Akhenaton](post3/Louvre_image_0.jpg){ width=60% }
 <figcaption markdown> Buste d'Akhenaton  :octicons-heart-fill-16:{ .heart } : donne une impulsion révolutionnaire à la religion et à l’art égyptiens : abandon du panthéon, recentrage sur Aton dieu unique, et affirmation d’une esthétique “différente”. </figcaption>
@@ -57,15 +66,20 @@ Le bas-relief monumental « Héros maîtrisant un lion » fait partie des chefs-
 
 <figure markdown>
 ![Un air de Persépolis (palais de Darius)](post3/Louvre_image_18.jpg){ width=50% }
-<figcaption markdown> Un air de Persépolis : les taureaux ailés à tête humaine - lamassus - sont des génies protecteurs (symboles de force, d’intelligence et de vision surnaturelle), véritables « gardiens ».   </figcaption>
+<figcaption markdown> Un air de Persépolis : les taureaux ailés à tête humaine - Lamassus - sont des génies protecteurs (symboles de force, d’intelligence et de vision surnaturelle), véritables « gardiens ».   </figcaption>
 </figure>
 
 <figure markdown>
-![Je m'interroge...](post3/Louvre_image_22.jpg){ width=50% }
-<figcaption markdown> Je m'interroge... </figcaption>
+![Bon sang, ça me rappelle quelqu'un... 🤔?](post3/Louvre_image_22.jpg){ width=50% }
+<figcaption markdown> Bon sang, ça me rappelle quelqu'un... 🤔 mais qui? </figcaption>
 </figure>
 
 Particularité : Ces taureaux sont sculptés avec cinq pattes – vus de face, ils semblent immobiles ; vus de côté, ils avancent : cette convention artistique leur donne le double aspect mouvement/repos. La tiare à cornes indique leur statut divin. Positionnés à l’entrée du palais, ils devaient impressionner le visiteur et repousser toute influence néfaste.
+
+<figure markdown>
+![Mais oui : il a bien cinq pattes !](post3/Louvre_image_32.jpg){ width=50% }
+<figcaption markdown> Mais oui : il a bien cinq pattes! </figcaption>
+</figure>
 
 <figure markdown>
 ![Lion](post3/Louvre_image_19.jpg){ width=50% }
@@ -173,7 +187,7 @@ La Vénus de Milo est l’une des statues antiques les plus célèbres au monde.
 !!! note "L'idée de la pomme évoque la pomme de la discorde"
 
     Le mythe grec de la 🍏 « pomme de la discorde » débute au mariage de Pélée et Thétis, auquel la déesse Éris (Discorde) n’est pas invitée. Pour se venger, elle jette au banquet une pomme d’or portant l’inscription « À la plus belle ».
-    
+
 
     Trois déesses — Héra, Athéna et Aphrodite — revendiquent le fruit. Incapable de les départager, Zeus confie le choix au mortel Pâris. Chacune fait une promesse : Héra offre la puissance, Athéna la victoire, Aphrodite l’amour de la plus belle femme au monde — Hélène de Sparte. Pâris remet la pomme à Aphrodite, enlève Hélène à Sparte et déclenche la guerre de Troie. Depuis, « pomme de discorde » désigne le point de départ d’un conflit important!
 
@@ -337,7 +351,7 @@ La renommée internationale de la Mona Lisa s’est amplifiée après son vol au
 - content: Buste d'Akhenaton <br> [![Akhenaton](./post3/rounded_icon_Akhenaton.png){ width="50" }](#sphinx)
   sub_title: 1'350 av. J-C
   title: Antiquité (Egypte)
- 
+
 - content: Héros maitrisant un lion <br> [![Héros](./post3/rounded_icon_Heros.png){ width="50" }](#proche-orient)
   sub_title: 710 av. J-C
   title: Antiquité (Babylone)
@@ -366,7 +380,7 @@ La renommée internationale de la Mona Lisa s’est amplifiée après son vol au
   sub_title: 1'560
   title: Peinture (Italie)
   
-- content: Louis XIV déménage à Versailles
+- content: Louis XIV déménage à Versailles <br> [![Louis XIV](./post3/rounded_icon_Louis.png){ width="50" }](#peinture)
   sub_title: 1'682
   title: Ancien Régime (Roi Soleil)
   
@@ -379,4 +393,5 @@ La renommée internationale de la Mona Lisa s’est amplifiée après son vol au
   sub_title: 1'800 - 1'870
   title: Consulat au Second Empire
   
+
 ::/timeline::
